@@ -1,0 +1,17 @@
+## Bing
+
+Hello, this is Bing. I'm glad you are interested in becoming a React JS developer. React JS is a popular library for creating user interfaces with JavaScript. To become a React JS developer, you need to learn some essential skills and tools. Here are some of them:
+
+- **JavaScript**: This is the core language that React JS is based on. You need to have a solid understanding of JavaScript fundamentals, such as variables, functions, objects, arrays, loops, conditionals, etc. You also need to learn some advanced concepts, such as promises, async/await, ES6 syntax, etc. JavaScript is needed for writing React JS code and logic.
+- **CSS**: This is the language that styles the appearance of your web pages. You need to know how to use CSS selectors, properties, values, units, etc. You also need to learn how to use CSS preprocessors, such as Sass or Less, which make writing CSS easier and more organized. CSS is needed for styling your React JS components and layouts.
+- **HTML**: This is the language that defines the structure and content of your web pages. You need to know how to use HTML tags, attributes, elements, etc. You also need to learn how to use JSX, which is a syntax extension that allows you to write HTML-like code in React JS. JSX is needed for creating your React JS elements and components.
+- **React JS**: This is the library that you want to master. You need to know how to use React JS features and tools, such as components, props, state, hooks, lifecycle methods, events, etc. You also need to learn how to use React JS libraries and frameworks, such as Redux, Flux, Next.js, Gatsby.js, etc. These help you manage the state and data flow of your React JS applications.
+- **Portfolio**: This is the collection of projects that showcase your skills and abilities as a React JS developer. You need to create some projects that demonstrate your knowledge and experience with React JS and related technologies. You also need to host your projects online and share them with potential employers or clients. A portfolio is needed for proving your competence and value as a React JS developer.
+
+These are some of the essential things you need to learn to become a React JS developer. Of course, there are many more things you can learn and explore in this field, but these are a good starting point. If you want to learn more about how to become a React JS developer in 2021, you can check out these resources:
+
+- [The React Roadmap: 10 Steps to Become a React Developer in 2021](https://www.freecodecamp.org/news/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021/) 
+- [How to Become a React Developer in 3 Steps | Coursera](https://www.coursera.org/articles/react-developer) 
+- [React.js Developer Job Description - Betterteam](https://www.betterteam.com/react-js-developer-job-description) 
+
+I hope this helps you on your journey to becoming a React JS developer. Good luck! 😊
